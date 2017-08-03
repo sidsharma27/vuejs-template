@@ -1,4 +1,4 @@
-title : Basic template
+title : Vue.js template
 
 # Table of content
 plan:
@@ -6,3 +6,13 @@ plan:
     statement: markdowns/welcome.md # Set the file path to the page content
 #  - title: Another Page
 #    statement: markdowns/another-page.md
+
+
+# Settings for your programming projects and the associated Docker images
+projects:
+  angular:
+    root: /vue # Set the root path to your angular project
+    # Set the docker image. This image runs npm install for you on every build
+    runner:
+      name: zimdo/docker-vuejs
+      version: latest
