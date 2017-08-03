@@ -3,8 +3,8 @@ body {
 }
 p {
     color: black;
-    font-family: cursive;
-    font-size: 20px;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 25px;
 }
 #main {
     position: absolute;
