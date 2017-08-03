@@ -1,5 +1,5 @@
 #!/bin/bash
 
 echo "🤖 Preparing your Vue.js project. ⏳"
-echo "CG> open --static-dir /project/target/dist /index.html"
+echo "TECHIO> open -s /project/target/vue index.html"
 fi

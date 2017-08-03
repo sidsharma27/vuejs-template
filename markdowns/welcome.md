@@ -6,7 +6,7 @@ The source code for this template is on [GitHub](https://github.com/TechDotIO/vu
 
 # Hands-on Demo
 
-@[Sample Vue.js App]({"stubs": ["index.html", "main.js"], "command": "open -s /project/target/vue HelloWorld.html"})
+@[Sample Vue.js App]({"stubs": ["index.html", "main.js"], "command": "run.sh"})
 
 Check out the markdown file [`welcome.md`](https://github.com/TechDotIO/vuejs-template/blob/master/markdowns/welcome.md) to see how this exercise is injected into the template.
 
