@@ -1,6 +1,6 @@
 # Welcome!
 
-This Vue.js template lets you get started quickly with a simple working example using Vue.js, HTML, and CSS. If it is your first contribution then you should have a look at the [Getting Started](https://tech.io/doc/getting-started-create-playground) document.
+This Vue.js template lets you get started quickly with a simple working example using Vue.js, HTML, and CSS. If it is your first contribution then you should have a look at the [Getting Started](https://tech.io/doc/getting-started-create-playground) documentation.
 
 The source code for this template is on [GitHub](https://github.com/TechDotIO/vuejs-template), please feel free to come up with proposals to improve it.
 
