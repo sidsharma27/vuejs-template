@@ -1,1 +1,1 @@
-# techio-basic-template
+# techio-vuejs-template
